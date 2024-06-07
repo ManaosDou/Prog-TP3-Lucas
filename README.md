@@ -2,9 +2,9 @@
 
 ---
 
-**De:** DedSec  
-**Para:** Giga 
-**Asunto:** Prueba de Iniciación: Operación FPT
+-**De:** DedSec  
+-**Para:** Giga 
+-**Asunto:** Prueba de Iniciación: Operación FPT
 
 ---
 
