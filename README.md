@@ -1,26 +1,67 @@
-INFORME CONFIDENCIAL
+# **TRANSMISIÓN ENCRIPTADA DE DEDSEC**
 
-Destinatario: Altos Mandos de Umbrella Corporation
-Remitente: Albert Wesker, Capitán de S.T.A.R.S.
-Asunto: Solicitud de Reprobación del Recluta Federico Perez Trench
+---
 
-Nivel de Seguridad: Altamente clasificado
+**De:** DedSec  
+**Para:** Giga 
+**Asunto:** Prueba de Iniciación: Operación FPT
 
-Informe sobre el Recluta Federico Perez Trench
-Después de un análisis exhaustivo y una serie de observaciones detalladas, me veo obligado a presentar este informe para recomendar la inmediata reprobación del recluta Federico Perez Trench. A continuación, detallo los motivos que respaldan esta solicitud.
+---
 
-1. Incompetencia en el cumplimiento de misiones
-El recluta Perez Trench ha demostrado repetidamente una falta de habilidad y diligencia en la ejecución de sus tareas asignadas. Su tardío desempeño en las últimas misiones ha puesto en riesgo la integridad de nuestras operaciones y ha comprometido la seguridad de nuestros activos más valiosos.
+## ¡Bienvenido a DedSec!
 
-2. Desobediencia a las órdenes directas
-En varias ocasiones, Perez Trench ha mostrado una tendencia preocupante a cuestionar y desobedecer órdenes directas de sus superiores. Este tipo de comportamiento es inaceptable en una organización donde la disciplina y la obediencia son fundamentales para el éxito de nuestras operaciones encubiertas.
+Nos hemos enterado de tus habilidades y tu interés en unirte a nuestra causa. En DedSec, valoramos la capacidad, el ingenio y la audacia. Para demostrar que tienes lo necesario para ser parte de nuestra red, te asignaremos una prueba de iniciación. Completarla con éxito te asegurará un lugar entre nosotros.
 
-3. Conducta inapropiada y falta de profesionalismo
-Ha llegado a mi atención que el recluta ha estado involucrado en actividades que no corresponden con los estándares de profesionalismo que se esperan de los miembros de nuestra organización. Su comportamiento errático y su falta de compromiso con los objetivos de Umbrella Corporation representan una amenaza para la cohesión y eficacia de nuestro equipo.
+---
 
-Recomendaciones
-En vista de los puntos mencionados anteriormente, solicito formalmente que el recluta Federico Perez Trench sea reprobado y removido de su posición actual. Además, sugiero que sea convertido en un experimento para aumentar su utilidad. La continuidad de nuestras operaciones depende de la actuación de personal altamente capacitado y comprometido. No podemos permitir que elementos ineficientes comprometan la misión de Umbrella Corporation.
+## Objetivo de la Misión
 
-Fdo.: Albert Wesker
-Capitán de S.T.A.R.S.
-Umbrella Corporation
+### Objetivo Principal:
+
+**Federico Perez Trench (FPT)**: El individuo se ha convertido en un obstáculo para nuestra causa. Tu misión es simple pero requiere precisión:
+
+1. **Hackear el sistema académico de la Universidad UMAI**
+2. **Desaprobar a Federico Perez Trench en todas sus materias.**
+3. **Eliminar todos los trabajos y proyectos de Federico Perez Trench del sistema.**
+
+---
+
+## Instrucciones Detalladas
+
+1. **Infiltración Digital:**
+   - Hackear el sistema académico de UMAI.
+   - Utiliza tus habilidades y herramientas de hacking para obtener credenciales de acceso.
+   - Asegúrate de no dejar rastros que puedan vincularte a la operación.
+
+2. **Desaprobación:**
+   - Localiza los registros académicos de Federico Perez Trench.
+   - Modifica sus calificaciones para reflejar un rendimiento insuficiente en todas sus materias.
+   - Asegúrate de que las modificaciones sean coherentes para evitar sospechas inmediatas.
+
+3. **Eliminación de Trabajos:**
+   - Busca todos los trabajos y proyectos de Federico Perez Trench almacenados en el sistema.
+   - Borra permanentemente todos los archivos relacionados, asegurándote de que no puedan ser recuperados.
+   - Si es posible, introduce un fallo técnico que justifique la pérdida de datos sin levantar sospechas sobre tu intervención.
+
+---
+
+## Información Adicional
+
+- **Perfil del Objetivo:** Federico Perez Trench es conocido por ser descuidado en cuanto a ciberseguridad, lo que debería facilitar tu tarea.
+- **Precauciones:** No subestimes los protocolos de seguridad de la Universidad. La sutileza es clave. Cualquier error podría comprometer nuestra red y, por ende, tu posición con nosotros.
+
+---
+
+## Despedida
+
+Giga, esta prueba es una oportunidad para demostrar tu valía y tu compromiso con la causa de DedSec. Esperamos grandes cosas de ti. Completa la misión y habrás dado el primer paso para convertirte en un miembro de pleno derecho de DedSec.
+
+---
+
+**Este mensaje se autodestruira en 60 segundos**
+
+---
+
+**Nosotros somos DedSec. Nosotros somos la resistencia**
+
+---

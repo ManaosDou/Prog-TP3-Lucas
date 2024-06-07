@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TP2 Prog.sln"
+    "dotnet.defaultSolution": "TP3 Prog.sln"
 }

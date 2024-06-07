@@ -4,6 +4,8 @@ using TMPro;
 
 public class EnemigosRestantes : MonoBehaviour
 {
+    public static EnemigosRestantes Instancia { get; private set; }
+
     public GameObject jugador;
     public TMP_Text TxtERestantes;
     public GameObject ButtonRestart;
@@ -11,12 +13,29 @@ public class EnemigosRestantes : MonoBehaviour
     public GameObject TxtGanar;
     public GameObject TxtPerder;
     private int ERestantes;
+    public bool gameOver = true;
+    public AudioClip perder;
+    public AudioClip ganar;
+    private AudioSource audioSource;
+    public AudioSource musica;
 
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         ActualizarTexto();
     }
-    void FixedUpdate()
+    void Awake()
+    {
+        if (Instancia == null)
+        {
+            Instancia = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+    public void Verificar()
     {
         ActualizarTexto();
         Ganar();
@@ -35,16 +54,29 @@ public class EnemigosRestantes : MonoBehaviour
             TxtGanar.SetActive(true);
             ButtonMenu.SetActive(true);
             ButtonRestart.SetActive(true);
+            DestruirDisparos();
+            if (musica != null)
+        {
+            musica.Stop();
+            audioSource.PlayOneShot(ganar);
+        }
+            gameOver = false;
         }
     }
     private void Perder()
     {
-        if (jugador == null)
+        if (jugador == null && gameOver)
         {
             TxtPerder.SetActive(true);
             ButtonMenu.SetActive(true);
             ButtonRestart.SetActive(true);
             DestruirDisparos();
+            if (musica != null)
+        {
+            musica.Stop();
+            audioSource.PlayOneShot(perder);
+        }
+            gameOver = false;
         }
     }
     private void DestruirDisparos()
@@ -52,6 +84,13 @@ public class EnemigosRestantes : MonoBehaviour
         GameObject[] disparosJugador = GameObject.FindGameObjectsWithTag("DisparoJugador");
 
         foreach (GameObject disparo in disparosJugador)
+        {
+            Destroy(disparo);
+        }
+
+        GameObject[] disparosEnemigo = GameObject.FindGameObjectsWithTag("DisparoEnemigo");
+
+        foreach (GameObject disparo in disparosEnemigo)
         {
             Destroy(disparo);
         }
